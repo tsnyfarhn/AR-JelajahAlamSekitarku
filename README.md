@@ -17,4 +17,4 @@ Main Menu can choose Mulai to see various types of natural, Petunjuk to see how 
 ## AR Screen
 This is screen when we using the AR feature.
 
-<img src="https://github.com/user-attachments/assets/107c0a24-292f-49ea-89e6-4ac988e865c1" width="190" />
+<img src="https://github.com/user-attachments/assets/107c0a24-292f-49ea-89e6-4ac988e865c1" />
