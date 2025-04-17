@@ -11,5 +11,5 @@ Main Menu can choose Mulai to see various types of natural, Petunjuk to see how 
 
 <img src="https://github.com/user-attachments/assets/e2c8fa35-678c-482e-9aae-4a2ac267d062" width="190" hspace="5"/>
 <img src="https://github.com/user-attachments/assets/61100a70-acdf-42e9-9643-3629a40e96a4" width="190" hspace="5"/>
-<img src="https://github.com/user-attachments/assets/a99163fe-9e97-45b1-9e9b-33d36aa1e015" width="190" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/bd51e9eb-880c-4eeb-90da-38d70e738df8" width="190" hspace="5"/>
 <img src="https://github.com/user-attachments/assets/212feb06-5c21-4318-b1b1-baeaa7787977" width="190" hspace="5"/>
